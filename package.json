@@ -1,14 +1,11 @@
 {
-  "name": "node_portafolio-web",
+  "name": "api-veterinaria",
   "version": "1.0.0",
-  "description": "",
+  "type": "module",
   "main": "index.js",
-  "engines": {
-    "node": "^12.22.0 || ^14.17.0 || >=16.0.0"
-  },
   "scripts": {
     "start":"node src/index.js",
-    "dev" :"nodemon src/index.js"
+    "dev":"nodemon src/index.js"
   },
   "keywords": [],
   "author": "",
